@@ -1,0 +1,22 @@
+{
+  "name": "titlecase-js",
+  "version": "1.0.0",
+  "description": "this function assumes that the input string consists of words separated by spaces. If your input string has a different format, you may need to modify the function accordingly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/titleCasejs.git"
+  },
+  "keywords": [
+    "titlecase-js"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/titleCasejs/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/titleCasejs#readme"
+}
