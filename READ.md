@@ -1,0 +1,2 @@
+# Title Case Function
+This function takes a string as input and returns a new string with the first letter of each word capitalized. It uses a regular expression to match all words in the string, and then applies a function to each match to capitalize the first letter and convert the rest of the word to lowercase.
